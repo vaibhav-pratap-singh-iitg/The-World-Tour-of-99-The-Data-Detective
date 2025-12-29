@@ -34,7 +34,7 @@ Profit = Ticket Revenue + Energy-dependent Merch Revenue − Fixed & Variable Co
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 
